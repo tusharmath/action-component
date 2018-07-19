@@ -27,7 +27,7 @@ export const forward = <VNode>(spec: {
   const command = concatC<any, State, any>((act, state) => {
     return spec[act.type]
       ? action(act.type, spec[act.type].command(act.value, state[act.type]))
-      : Nil
+      : Nil()
   }, component.command)
 
   const view = component.view

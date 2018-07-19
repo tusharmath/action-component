@@ -25,9 +25,9 @@
     "url": "https://github.com/tusharmath/action-component.git"
   },
   "devDependencies": {
-    "@types/mocha": "^5.2.4",
+    "@types/mocha": "^5.2.5",
     "@types/node": "^10.5.2",
-    "@types/ramda": "^0.25.34",
+    "@types/ramda": "^0.25.35",
     "cz-conventional-changelog": "^2.1.0",
     "mocha": "^5.2.0",
     "prettier": "^1.13.7",
@@ -38,8 +38,8 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "action-type": "^3.1.1",
-    "hoe": "^8.0.1",
-    "update-function-types": "^2.1.1"
+    "action-type": "^4.0.0",
+    "hoe": "^8.0.2",
+    "update-function-types": "^2.1.2"
   }
 }
