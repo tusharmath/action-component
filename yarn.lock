@@ -108,9 +108,10 @@
   version "10.5.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.2.tgz#f19f05314d5421fe37e74153254201a7bf00a707"
 
-"@types/ramda@^0.25.35":
-  version "0.25.35"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.35.tgz#94500755a8dd7365f80e9e99e31331add41e9880"
+"@types/ramda@^0.26.13":
+  version "0.26.13"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.13.tgz#2da2e53ef1dc3d37a94c6ad28a8830295189c718"
+  integrity sha512-x0GJAK27bizIz6e00edHyApPA6aC25Lmk6acb/Dj+MVYEndaszs/fRpCOaxYxjMpnx7zDGnettbHBhqxgnaEPw==
 
 JSONStream@^1.0.4:
   version "1.3.3"
