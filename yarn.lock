@@ -108,9 +108,12 @@
   version "10.5.2"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.5.2.tgz#f19f05314d5421fe37e74153254201a7bf00a707"
 
-"@types/ramda@^0.25.35":
-  version "0.25.35"
-  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.25.35.tgz#94500755a8dd7365f80e9e99e31331add41e9880"
+"@types/ramda@^0.26.25":
+  version "0.26.25"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.25.tgz#c30dadfc659acb145335e56ce306e4da5a25d0b1"
+  integrity sha512-fx54Gx7Xrw+wMU7sEbUa5tjgL5Ec/vWzhKCqJHR0JVJUqwGzUtIYk8nqwyLbmX11wEx2xVdblYlNL9BzznDhvw==
+  dependencies:
+    ts-toolbelt "^4.5.0"
 
 JSONStream@^1.0.4:
   version "1.3.3"
@@ -3087,6 +3090,11 @@ ts-node@^7.0.0:
     mkdirp "^0.5.1"
     source-map-support "^0.5.6"
     yn "^2.0.0"
+
+ts-toolbelt@^4.5.0:
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/ts-toolbelt/-/ts-toolbelt-4.5.2.tgz#ab3869ffe6a0c944c44a402b7355643f9b111fc5"
+  integrity sha512-g7ZDTK17HhZi5qhFvHLaW/ZzaOlEB+O7GnDaW6ftCEaxhbenVEzPfmeGo2YhMgRjhlYO/dtOmUbv0yykQU5YMw==
 
 typescript@^2.9.2:
   version "2.9.2"
