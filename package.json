@@ -25,7 +25,7 @@
     "url": "https://github.com/tusharmath/action-component.git"
   },
   "devDependencies": {
-    "@types/mocha": "^5.2.5",
+    "@types/mocha": "^7.0.1",
     "@types/node": "^10.5.2",
     "@types/ramda": "^0.25.35",
     "cz-conventional-changelog": "^2.1.0",
